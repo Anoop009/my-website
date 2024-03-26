@@ -12,3 +12,6 @@ A new file added in the master branch
 
 ===========
 adding a getting started section 
+
+----------
+making some changes locally in the readme file 
